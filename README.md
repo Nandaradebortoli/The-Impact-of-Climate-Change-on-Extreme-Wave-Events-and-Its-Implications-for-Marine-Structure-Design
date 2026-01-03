@@ -1,0 +1,2 @@
+# The-Impact-of-Climate-Change-on-Extreme-Wave-Events-and-Its-Implications-for-Marine-Structure-Design
+This repository provides Python scripts for processing, analyzing, and visualizing extreme wave climate in the Western South Atlantic based on global climate model projections. It focuses on statistical analysis of significant wave height (Hs), including distribution fitting, return level estimation, and spatial and basin-scale visualization.
